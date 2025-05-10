@@ -14,6 +14,12 @@ The project demonstrates how to:
 6. Visualize benchmark results
 7. Explore and interact with the data in both formats
 
+## Benchmark Results
+
+Below is a sample visualization of the benchmark results:
+
+![Benchmark Results](screenshot.png)
+
 ## Proto Definition
 
 We're using this Protocol Buffer definition for our sensor events:
