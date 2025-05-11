@@ -30,12 +30,10 @@ package sensor;
 
 // A truly dynamic map of string→string.
 message Event {
-  string nameId       = 1;
-  string timestamp    = 2;
+  string name       = 1;
+  string time    = 2;
   map<string, string> fields      = 3;
-  string resourceType = 4;
-  string inputType    = 5;
-  string projectId    = 6;
+  string container    = 4;
 }
 ```
 
