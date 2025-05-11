@@ -1,4 +1,4 @@
-# JSON vs Protocol Buffers Benchmark
+# Benchmark & Learning Protocol Buffers 
 
 This project provides a comprehensive benchmark comparing JSON and Protocol Buffers for sensor event data. It includes a fully functional Node.js/TypeScript API with Express and Kafka integration, alongside benchmarking tools to evaluate serialization, deserialization, and storage efficiency.
 
